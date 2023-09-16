@@ -1,0 +1,14 @@
+.nav-link {
+    color: #000424 !important; /* replace with your desired color */
+    font-weight: bold;
+    font-size: large;
+    transition: background-color 0.5 ease;
+}
+
+.nav-link:hover {
+    background-color: #7f83a4;
+}
+
+.navbar-dark {
+    background-color: #000424 !important; /* replace with your desired color */
+}
